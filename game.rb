@@ -1,5 +1,5 @@
 class Game
-  def intialize; end
+  def initialize; end
 
   def run
     '21!'
